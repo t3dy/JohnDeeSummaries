@@ -26,8 +26,8 @@ OCR problems, or to rebuild the Markdown chunks.
 - Separate Casaubon OCR candidate pages, marked as noisy review material.
 - Chapter-by-chapter Harkness pages with long essays on argument, evidence, and
   historiographical stakes.
-- Sherman and Parry chapter-level scholarship summaries generated from the
-  converted Markdown chunks.
+- Scholarship summaries for Sherman, Parry, Szőnyi, Håkansson, Clucas, Walton,
+  and Forshaw generated from the converted Markdown chunks.
 
 ## How To Browse
 
