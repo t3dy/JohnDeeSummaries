@@ -26,6 +26,8 @@ OCR problems, or to rebuild the Markdown chunks.
 - Separate Casaubon OCR candidate pages, marked as noisy review material.
 - Chapter-by-chapter Harkness pages with long essays on argument, evidence, and
   historiographical stakes.
+- Sherman and Parry chapter-level scholarship summaries generated from the
+  converted Markdown chunks.
 
 ## How To Browse
 
@@ -38,6 +40,7 @@ Use the toolbar at the top of the site to move between categories:
 - `Spirit Actions`
 - `Casaubon OCR`
 - `Harkness`
+- `Scholarship`
 
 Each category page presents searchable index cards. Click any card to open a
 full detail page with metadata, longer summary text, retained source text where
