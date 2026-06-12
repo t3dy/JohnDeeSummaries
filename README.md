@@ -8,6 +8,13 @@ daybook entries, dated spirit-action summaries, Casaubon OCR review candidates,
 and long-form chapter essays on Deborah E. Harkness's *John Dee's Conversations
 with Angels*.
 
+## Source Workflow
+
+Summaries are produced from the converted Markdown chunks and SQLite index, not
+by re-reading the original PDFs. The local source layer is `DeeChunks/markdown/`
+plus `DeeChunks/dee_chunks.sqlite`; PDFs are used only to diagnose conversion or
+OCR problems, or to rebuild the Markdown chunks.
+
 ## What Is Included
 
 - Work-level catalog of Dee primary and attributed writings.
