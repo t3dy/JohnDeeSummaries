@@ -5,8 +5,9 @@ Live site: [https://t3dy.github.io/JohnDeeSummaries/](https://t3dy.github.io/Joh
 Static browsing site for a summarized John Dee corpus. It collects index-card
 summaries and full detail pages for Dee's primary-source sections, journal and
 daybook entries, dated spirit-action summaries, Casaubon OCR review candidates,
-and long-form chapter essays on Deborah E. Harkness's *John Dee's Conversations
-with Angels*.
+long-form chapter essays on Deborah E. Harkness's *John Dee's Conversations
+with Angels*, and separate scholarship tabs for Sherman, Parry, Szőnyi,
+Håkansson, Clucas, Walton, and Forshaw.
 
 ## Source Workflow
 
@@ -28,8 +29,8 @@ OCR problems, or to rebuild the Markdown chunks.
 - Separate Casaubon OCR candidate pages, marked as noisy review material.
 - Chapter-by-chapter Harkness pages with long essays on argument, evidence, and
   historiographical stakes.
-- Scholarship summaries for Sherman, Parry, Szőnyi, Håkansson, Clucas, Walton,
-  and Forshaw generated from the converted Markdown chunks.
+- Separate scholarship pages for Sherman, Parry, Szőnyi, Håkansson, Clucas,
+  Walton, and Forshaw generated from the converted Markdown chunks.
 
 ## How To Browse
 
@@ -43,7 +44,13 @@ Use the toolbar at the top of the site to move between categories:
 - `Spirit Actions`
 - `Casaubon OCR`
 - `Harkness`
-- `Scholarship`
+- `Sherman`
+- `Parry`
+- `Szőnyi`
+- `Håkansson`
+- `Clucas`
+- `Walton`
+- `Forshaw`
 
 Each category page presents searchable index cards. Click any card to open a
 full detail page with metadata, longer summary text, retained source text where

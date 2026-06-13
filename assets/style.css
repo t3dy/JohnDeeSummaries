@@ -123,6 +123,35 @@ main { max-width: 1280px; margin: 0 auto; padding: 24px; }
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+.scholar-card {
+  min-height: 150px;
+  align-content: start;
+}
+.scholar-card .card-row {
+  display: grid;
+  grid-template-columns: 54px minmax(0, 1fr);
+  gap: 8px;
+  align-items: baseline;
+  min-width: 0;
+}
+.scholar-card .card-label {
+  color: var(--muted);
+  font-size: 10px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+}
+.scholar-card .card-value {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 13px;
+  line-height: 1.25;
+}
+.scholar-card .card-summary {
+  -webkit-line-clamp: 2;
+}
 .meta { color: var(--muted); font-size: 12px; }
 .detail {
   display: grid;
