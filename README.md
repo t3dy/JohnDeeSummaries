@@ -18,6 +18,8 @@ OCR problems, or to rebuild the Markdown chunks.
 ## What Is Included
 
 - Work-level catalog of Dee primary and attributed writings.
+- Biographical timeline of significant events in Dee's life, with
+  bibliographical references and source chunk paths.
 - Primary-source section summaries for conversations with spirits, letters,
   journals, and related ritual compilations.
 - Detailed subsection summaries for the major primary-source groupings.
@@ -34,6 +36,7 @@ OCR problems, or to rebuild the Markdown chunks.
 Use the toolbar at the top of the site to move between categories:
 
 - `Works`
+- `Biography`
 - `Primary Sections`
 - `Subsections`
 - `Daybook Entries`
